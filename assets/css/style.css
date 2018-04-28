@@ -1,0 +1,70 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(../images/negronhands.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    color: #ff6a84;
+    font-weight: bold;
+    text-align: center;
+}
+
+p {
+    color: black;
+}
+
+#rules {
+    padding: 20px;
+    background-color: bisque;
+    opacity: .6;
+    font-family: "Lucida Console", Monaco, monospace;
+    margin: 20px auto;
+    width: auto;
+    height: auto;
+    overflow:hidden;
+    text-align: center;
+}
+
+#randNumber {
+    width: 200px;
+    height: 200px;
+    background-color: bisque; 
+    opacity: .6;
+    padding: 20px;
+    text-align: center;
+    font-family: "Lucida Console", Monaco, monospace;
+    font-size: 20px;
+}
+
+#yourScore {
+    width: 200px;
+    height: 200px;
+    background-color: bisque; 
+    opacity: .6;
+    padding: 20px;
+    text-align: center;
+    font-family: "Lucida Console", Monaco, monospace;
+    font-size: 20px;
+}
+
+#stats {
+    width: 200px;
+    height: 200px;
+    background-color: bisque; 
+    opacity: .6;
+    padding: 20px;
+    text-align: center;
+    font-family: "Lucida Console", Monaco, monospace;
+    font-size: 20px;
+}
+
+.crystal-image {
+    height: 150px;
+    width: 150px;
+    margin: 40px;
+}
