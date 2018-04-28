@@ -15,10 +15,10 @@ var startGame = function () {
 //array to hold the crystal images
 var crystalImages = [
 
-    'assets/images/untitled-1.png',
-    'assets/images/untitled-2.png',
-    'assets/images/untitled-3.png',
-    'assets/images/untitled-4.png'
+    'assets/images/Untitled-1.png',
+    'assets/images/Untitled-2.png',
+    'assets/images/Untitled-3.png',
+    'assets/images/Untitled-4.png'
 ];
 
 //generate a random number 
